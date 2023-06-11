@@ -1,6 +1,9 @@
+welcome to my repository
+=======
 - 👋 Hi, I’m @Gauravglitch
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c++/
+-    I have finished learning python/css/html/c++/c/DSA
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me intsagram-gauravmaharjan
 
